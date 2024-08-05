@@ -22,7 +22,7 @@ include "functions.php";
 <body>
 <?php include_once "header.php"; ?>
     <h1>Conductores</h1>
-
+    <span>Los datos presentes son ficticios cualquier coincidencia ocurrida no es más que una casualidad</span>
 
     <?php
 

@@ -18,7 +18,10 @@ include "functions.php";
     <link rel="stylesheet" href="css/style.css">
 </head>
 
-<body>
+<body class="container-fluid">
+
+    <h1>Vehículos</h1>
+    <span>Los datos presentes son ficticios cualquier coincidencia ocurrida no es más que una casualidad</span>
 
     <span class="to-top"> <i class="bi bi-chevron-up"></i> </span>
 

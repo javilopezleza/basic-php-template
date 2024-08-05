@@ -5,9 +5,9 @@
 function conexion(){
     try {
         $conexion = @new PDO(
-            'mysql:host=your-host-name;dbname=your-database-name',//host and name of DataBase
-            'your-user',//user
-            'your-password',//Password from user in MySql
+            'mysql:host=localhost;dbname=flota',//host and name of DataBase
+            'root',//user
+            '',//Password from user in MySql
             array(PDO::MYSQL_ATTR_INIT_COMMAND=>"SET NAMES utf8")
         );
     }catch (PDOException $e) {

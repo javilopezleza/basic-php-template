@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg justify-content-around sticky-top border-none nav-rest">
+<nav class="navbar navbar-expand-lg justify-content-around sticky-top border-none nav-rest shadow p-3 mb-5 bg-white rounded">
     <div class="container">
         <a class="navbar-brand" href="index.php">UMF0492</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
