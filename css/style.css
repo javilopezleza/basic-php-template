@@ -1,0 +1,69 @@
+.navbar-brand{
+  color: black;
+}
+.navbar-brand:hover{
+  color: black;
+}
+
+.nav-rest .menu {
+  margin-left: 60%;
+  margin-right: 20% !important;
+}
+.nav-rest .menu .en {
+  color: black !important;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.nav-rest .menu .en:hover {
+  color: #474A8A !important;
+}
+.nav-rest .user i {
+  font-size: 2.5rem;
+  color: black;
+  cursor: pointer;
+}
+
+.but {
+  color: black;
+  font-weight: bold;
+}
+
+.short {
+  width: 35%;
+}
+
+.to-top {
+  z-index: 999 !important;
+  display: none;
+  padding: 10px 12px;
+  background: royalblue;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.edit {
+  color: black;
+}
+
+.delete {
+  color: black;
+}
+
+.feedback {
+  margin-top: 2%;
+  text-align: center;
+  width: 50%;
+  height: 15vh;
+  margin-left: 23%;
+}
+.feedback p {
+  margin-top: 5%;
+  color: black;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=style.css.map */
